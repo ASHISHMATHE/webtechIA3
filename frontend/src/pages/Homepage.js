@@ -17,7 +17,7 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to
                             <br />
-                            School Management
+                            School Result Management
                             <br />
                             System
                         </StyledTitle>
